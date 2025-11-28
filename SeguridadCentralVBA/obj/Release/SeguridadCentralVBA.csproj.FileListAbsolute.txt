@@ -1,0 +1,7 @@
+C:\Dcode\DLLs_VBA\SeguridadCentralVBA\bin\Release\SeguridadCentralVBA.dll
+C:\Dcode\DLLs_VBA\SeguridadCentralVBA\bin\Release\SeguridadCentralVBA.pdb
+C:\Dcode\DLLs_VBA\SeguridadCentralVBA\bin\Release\SeguridadCentralVBA.tlb
+C:\Dcode\DLLs_VBA\SeguridadCentralVBA\obj\Release\SeguridadCentralVBA.csproj.AssemblyReference.cache
+C:\Dcode\DLLs_VBA\SeguridadCentralVBA\obj\Release\SeguridadCentralVBA.csproj.CoreCompileInputs.cache
+C:\Dcode\DLLs_VBA\SeguridadCentralVBA\obj\Release\SeguridadCentralVBA.dll
+C:\Dcode\DLLs_VBA\SeguridadCentralVBA\obj\Release\SeguridadCentralVBA.pdb

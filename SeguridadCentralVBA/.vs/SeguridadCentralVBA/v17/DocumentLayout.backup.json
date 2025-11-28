@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\validaciones\\validadorhardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:validaciones\\validadorhardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|c:\\dcode\\dlls_vba\\seguridadcentralvba\\interfaces\\interfazvba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:interfaces\\interfazvba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\validaciones\\validadortemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:validaciones\\validadortemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\interfaces\\envoltoriocom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:interfaces\\envoltoriocom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|c:\\dcode\\dlls_vba\\seguridadcentralvba\\nucleo\\motorseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:nucleo\\motorseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|c:\\dcode\\dlls_vba\\seguridadcentralvba\\nucleo\\registrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:nucleo\\registrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\modelos\\informacionhardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:modelos\\informacionhardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\modelos\\informacionlicencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:modelos\\informacionlicencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\modelos\\informacionsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:modelos\\informacionsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\modelos\\resultadovalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:modelos\\resultadovalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\modelos\\detallevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2922F15-A16B-4D8C-BE55-D3CE523FC42A}|SeguridadCentralVBA.csproj|solutionrelative:modelos\\detallevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MotorSeguridad.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Nucleo\\MotorSeguridad.cs",
+              "RelativeDocumentMoniker": "Nucleo\\MotorSeguridad.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Nucleo\\MotorSeguridad.cs",
+              "RelativeToolTip": "Nucleo\\MotorSeguridad.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:29:53.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registrador.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Nucleo\\Registrador.cs",
+              "RelativeDocumentMoniker": "Nucleo\\Registrador.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Nucleo\\Registrador.cs",
+              "RelativeToolTip": "Nucleo\\Registrador.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:19:51.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformacionHardware.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\InformacionHardware.cs",
+              "RelativeDocumentMoniker": "Modelos\\InformacionHardware.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\InformacionHardware.cs",
+              "RelativeToolTip": "Modelos\\InformacionHardware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:58:42.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InformacionSistema.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\InformacionSistema.cs",
+              "RelativeDocumentMoniker": "Modelos\\InformacionSistema.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\InformacionSistema.cs",
+              "RelativeToolTip": "Modelos\\InformacionSistema.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:57:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InformacionLicencia.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\InformacionLicencia.cs",
+              "RelativeDocumentMoniker": "Modelos\\InformacionLicencia.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\InformacionLicencia.cs",
+              "RelativeToolTip": "Modelos\\InformacionLicencia.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:57:25.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidadorTemporal.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Validaciones\\ValidadorTemporal.cs",
+              "RelativeDocumentMoniker": "Validaciones\\ValidadorTemporal.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Validaciones\\ValidadorTemporal.cs",
+              "RelativeToolTip": "Validaciones\\ValidadorTemporal.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAcwLoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:48:45.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfazVBA.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Interfaces\\InterfazVBA.cs",
+              "RelativeDocumentMoniker": "Interfaces\\InterfazVBA.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Interfaces\\InterfazVBA.cs",
+              "RelativeToolTip": "Interfaces\\InterfazVBA.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAwwA8BAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:45:01.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidadorHardware.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Validaciones\\ValidadorHardware.cs",
+              "RelativeDocumentMoniker": "Validaciones\\ValidadorHardware.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Validaciones\\ValidadorHardware.cs",
+              "RelativeToolTip": "Validaciones\\ValidadorHardware.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAcwC4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:23:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnvoltorioCOM.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Interfaces\\EnvoltorioCOM.cs",
+              "RelativeDocumentMoniker": "Interfaces\\EnvoltorioCOM.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Interfaces\\EnvoltorioCOM.cs",
+              "RelativeToolTip": "Interfaces\\EnvoltorioCOM.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAA0wHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:44:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResultadoValidacion.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\ResultadoValidacion.cs",
+              "RelativeDocumentMoniker": "Modelos\\ResultadoValidacion.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\ResultadoValidacion.cs",
+              "RelativeToolTip": "Modelos\\ResultadoValidacion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:57:32.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleValidacion.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\DetalleValidacion.cs",
+              "RelativeDocumentMoniker": "Modelos\\DetalleValidacion.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SeguridadCentralVBA\\Modelos\\DetalleValidacion.cs",
+              "RelativeToolTip": "Modelos\\DetalleValidacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:57:44.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
